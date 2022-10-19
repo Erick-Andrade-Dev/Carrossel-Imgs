@@ -76,16 +76,17 @@ header nav a:hover {
 }
 
 .item {
-    width: 250px;
-    height: 250px;
+    width: 400px;
+    height: 350px;
     flex-shrink: 0;
     opacity: 0.7;
     transition: all 600ms ease-in-out;
 }
 
 .atual {
-    opacity: 1.0;
+    opacity: 1.0;    
 }
+
  i {
     font-size: x-large;
     font-weight: bolder;
